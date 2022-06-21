@@ -1,0 +1,16 @@
+{
+  "name": "ift-d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "battlefy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "battlefy-api": "^1.1.0",
+    "follow-redirects": "^1.15.1",
+    "simple-challonge-api": "^1.0.1"
+  }
+}
